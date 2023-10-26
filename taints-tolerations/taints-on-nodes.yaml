@@ -1,0 +1,3 @@
+
+
+kubectl taint node node01 key1=value1:NoSchedule

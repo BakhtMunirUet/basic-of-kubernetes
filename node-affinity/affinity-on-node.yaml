@@ -1,0 +1,6 @@
+
+
+kubectl get node node01 disktype=ssd
+
+
+kubectl get node node01 --show-labels
