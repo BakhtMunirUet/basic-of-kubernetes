@@ -1,0 +1,9 @@
+
+
+Create user private key
+Create request.csr file and put the information and key both
+Create yaml file and apply to genereate the request
+Admin need to approve the request 
+Create crt file for the user
+Assing role and binding to the user
+Set credentails for the user  
